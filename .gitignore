@@ -55,3 +55,8 @@ docs/_build/
 
 # PyBuilder
 target/
+
+# secret credentials, and temporary files
+/creds.py
+/recording.wav
+response.mp3
